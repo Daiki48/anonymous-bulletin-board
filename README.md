@@ -7,3 +7,8 @@ An anonymous posting board. The configuration is firebase, react and typescript.
 ```shell
 $ firebase deploy --only hosting,storage,firestore
 ```
+
+# Branch
+
+- main
+- develop
